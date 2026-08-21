@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.loanself.portal",
+    "sha256_cert_fingerprints": ["C3:56:D7:67:1B:0A:22:8E:9D:F6:C7:78:0B:EA:D1:53:B7:77:47:75:DC:D8:32:08:DF:37:9C:A4:D8:3D:CA:64"]
+  }
+}]
